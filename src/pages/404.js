@@ -15,7 +15,7 @@ const NotFoundPage = () => (
       <div>
         <Link to="/">
           <div className="pt-6">
-            <p className="font-sans">← go to the homepage 🏠</p>
+            <p className="font-sans">← go to the homepage <span role="img" aria-label="home">🏠</span></p>
           </div>
         </Link>
       </div>
