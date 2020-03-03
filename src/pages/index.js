@@ -8,7 +8,7 @@ import "../css/background.css"
 const IndexPage = () => (
   <>
     <SEO title="Home" />
-    <div className="flex h-full" id="main-section">
+    <div className="flex h-screen" id="main-section">
       <div className="lg:w-1/3 md:w-1/4 sm:w-0">
       </div>
       <div className="lg:w-1/2 flex m-auto">
