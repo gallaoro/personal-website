@@ -23,10 +23,10 @@ const IndexPage = () => (
             </div>
             <div className="pt-4">
               <div className="flex items-center">
-                <p className="font-sans text-gray-700 mb-0"><span role="img" aria-label="notebook">💻</span> full stack developer <a href="https://advisoreat.com">@AdvisorEat</a></p>
+                <p className="font-sans text-gray-700 mb-0"><span role="img" aria-label="notebook">💻</span> full stack developer <a href="https://advisoreat.com" title="advisoreat">@AdvisorEat</a></p>
               </div>
               <div className="flex items-center pt-2">
-                <p className="font-sans text-xs text-gray-700 mb-0"><a href="https://twitter.com/lellefood">@lellefood</a>, <a href="https://github.com/lellefood">source</a></p>
+                <p className="font-sans text-xs text-gray-700 mb-0"><a href="https://twitter.com/lellefood" title="twitter">@lellefood</a>, <a href="https://github.com/lellefood" title="github">source</a></p>
               </div>
             </div>
           </div>
@@ -34,7 +34,7 @@ const IndexPage = () => (
       </div>
       <div className="absolute bottom-0 right-0 p-2">
         <p className="font-sans text-white text-sm mb-0">
-          <a href="https://gatsbyjs.org">gatsby</a>, <a href="https://tailwindcss.com/">tailwind</a>, <a href="https://www.heropatterns.com/">heropatterns</a>, favicon by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a>
+          <a href="https://gatsbyjs.org" title="gatsby">gatsby</a>, <a href="https://tailwindcss.com/" title="tailwind">tailwind</a>, <a href="https://www.heropatterns.com/" title="heropatterns">heropatterns</a>, favicon by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a>
         </p>
       </div>
     </div>
