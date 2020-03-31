@@ -38,7 +38,7 @@ class IndexPage extends React.Component {
           </div>
           <div className="absolute bottom-0 right-0 p-2">
             <p className="font-sans text-white text-sm mb-0">
-              <a href="https://gatsbyjs.org">gatsby</a>, <a href="https://tailwindcss.com/">tailwind</a>, <a href="https://www.heropatterns.com/">heropatterns</a>
+              <a href="https://gatsbyjs.org">gatsby</a>, <a href="https://tailwindcss.com/">tailwind</a>, <a href="https://www.heropatterns.com/">heropatterns</a>, favicon by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a>
             </p>
           </div>
         </div>
