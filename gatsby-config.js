@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: `Gabriele Pallaoro | Dev`,
-    description: `Just a minimal landing`,
+    description: `Just a minimal personal website about Gabriele`,
     author: `@lellefood`,
+    siteUrl: `https://gabriele.pallaoro.com`,
   },
   plugins: [
     `gatsby-plugin-postcss`,
@@ -28,6 +29,8 @@ module.exports = {
         icon: `src/images/favicon.png`, // This path is relative to the root of the site.
       },
     },
+    `gatsby-plugin-sitemap`,
+    `gatsby-plugin-robots-txt`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
