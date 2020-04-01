@@ -1,0 +1,22 @@
+backend:
+  name: git-gateway
+  branch: test-git-cms
+
+media_folder: static/img
+public_folder: /img
+
+site_url: https:/gabriele.pallaoro.dev
+display_url: https:/gabriele.pallaoro.dev
+
+collections:
+  - name: blog
+    label: Blog
+    folder: blog
+    slug: "{{year}}-{{month}}-{{slug}}"
+    create: true
+    fields:
+      - { name: path, label: Path }
+      - { name: date, label: Date, widget: datetime }
+      - { name: tags, label: Tags, widget: list }
+      - { name: title, label: Title }
+      - { name: body, label: Body, widget: markdown }
