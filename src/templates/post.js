@@ -1,6 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 
+import "../css/global.css"
 import "../css/alternate_background.css"
 
 export default function Template({ data }) {
