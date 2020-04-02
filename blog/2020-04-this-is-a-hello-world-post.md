@@ -1,5 +1,5 @@
 ---
-path: /2020-04-hello-world
+path: /blog/2020-04-hello-world
 date: 2020-04-01T15:02:46.633Z
 tags:
   - hello-world
