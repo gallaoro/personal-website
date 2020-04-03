@@ -3,7 +3,7 @@ module.exports = {
     title: `Gabriele Pallaoro | Dev`,
     description: `Just a minimal personal website about Gabriele`,
     author: `@lellefood`,
-    siteUrl: `https://gabriele.pallaoro.com`,
+    siteUrl: `https://gabriele.pallaoro.dev`,
   },
   plugins: [
     `gatsby-plugin-postcss`,
