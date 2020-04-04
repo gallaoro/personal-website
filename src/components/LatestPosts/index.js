@@ -5,7 +5,7 @@ const LatestPosts = ({ data }) => {
   let { nodes } = data.allMarkdownRemark;
   const posts = nodes.map(post => {
     return (
-      <div className="py-1 cursor-pointer flex justify-between">
+      <div key={post.frontmatter.path} className="py-1 cursor-pointer flex justify-between">
         <Link title={post.frontmatter.title} to={`${post.frontmatter.path}`}>
           <div className="underline">{post.frontmatter.title}</div>
         </Link>
