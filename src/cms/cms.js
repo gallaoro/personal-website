@@ -4,7 +4,7 @@ import CMS from 'netlify-cms-app'
 import PostTemplate from '../templates/post'
 
 const BlogPostPreview = ({ entry, widgetFor }) => {
-  const data = entry.get('data').toJs();
+  const data = entry.get('data').toJS();
   console.log(data);
   return (
     <PostTemplate
