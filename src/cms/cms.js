@@ -9,9 +9,9 @@ const BlogPostPreview = ({ entry, widgetFor }) => (
       markdownRemark: {
         html: '<h1>Hello!</h1>',
         frontmatter: {
-          date: entry.getIn(['data', 'date']),
-          path: entry.getIn(['data', 'path']),
-          title: entry.getIn(['data', 'title'])
+          date: 'asd',
+          path: 'ad',
+          title: 'asd'
         }
       }
     }}
