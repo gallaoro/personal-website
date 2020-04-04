@@ -4,7 +4,7 @@ import { graphql } from "gatsby"
 import "../css/global.css"
 import "../css/alternate_background.css"
 
-export default function Template({ data }) {
+export default function PostTemplate({ data }) {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
   return (
