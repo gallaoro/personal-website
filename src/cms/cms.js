@@ -7,7 +7,7 @@ const BlogPostPreview = ({ entry, widgetFor }) => (
   <PostTemplate
     data={{
       markdownRemark: {
-        html: widgetFor('body'),
+        html: '<h1>Hello!</h1>',
         frontmatter: {
           date: entry.getIn(['data', 'date']),
           path: entry.getIn(['data', 'path']),
