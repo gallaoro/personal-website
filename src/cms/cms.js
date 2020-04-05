@@ -10,9 +10,9 @@ const BlogPostPreview = ({ entry, widgetFor }) => {
     <PostTemplate
       data={{
         markdownRemark: {
-          html: data.body,
+          html: widgetFor('body'),
           frontmatter: {
-            date: '01 gennaio 2000',
+            date: `${data.date.year}-${data.date.monthIndex+1}-${data.date.day}`,
             path: data.path,
             title: data.title,
           }
