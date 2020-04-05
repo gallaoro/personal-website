@@ -21,5 +21,5 @@ const BlogPostPreview = ({ entry, widgetFor }) => {
   )
 }
 
-
-CMS.registerPreviewTemplate('blog', BlogPostPreview)
+// do not register custom preview
+// CMS.registerPreviewTemplate('blog', BlogPostPreview)
