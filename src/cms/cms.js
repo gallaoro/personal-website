@@ -1,7 +1,6 @@
 import React from 'react'
 import CMS from 'netlify-cms-app'
-
-import utils from '../misc/utils'
+import marked from 'marked'
 
 import PostTemplate from '../templates/post'
 
@@ -11,7 +10,7 @@ const BlogPostPreview = ({ entry }) => {
     <PostTemplate
       data={{
         markdownRemark: {
-          html: utils.markdownBlogPostRenderer(data.body),
+          html: marked(data.body),
           frontmatter: {
             date: `${data.date.getFullYear()}-${data.date.getMonth()+1}-${data.date.getDate()}`,
             path: data.path,
