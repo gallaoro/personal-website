@@ -5,13 +5,11 @@ import PostTemplate from '../templates/post'
 
 const BlogPostPreview = ({ entry, widgetFor }) => {
   const data = entry.get('data').toJS();
-  console.log(data);
-  console.log(widgetFor('body'));
   return (
     <PostTemplate
       data={{
         markdownRemark: {
-          html: 'Hello',
+          html: data.body,
           frontmatter: {
             date: `${data.date.getFullYear()}-${data.date.getMonth()+1}-${data.date.getDate()}`,
             path: data.path,
