@@ -72,7 +72,7 @@
 
 /* Code blocks */
 .markdown pre {
-  @apply p-4 bg-gray-200 text-grey-800 rounded-lg shadow-lg;
+  @apply p-4 bg-gray-200 text-gray-800 rounded-lg shadow-lg text-sm whitespace-pre-wrap;
 }
 
 /* Blockquotes */

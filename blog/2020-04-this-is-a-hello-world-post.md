@@ -17,6 +17,8 @@ title: This is a hello world post
 
 ##### Heading 5
 
+###### Heading 6
+
 # Unordered list
 
 * item 1
@@ -41,7 +43,15 @@ title: This is a hello world post
 
 ```javascript
 // some code here
-const abba = 'a group'
+const pippo = "for a buggy website, INPS payed € "
+
+function sum(a, b) {
+  return a + b
+}
+
+// "for a buggy website, INPS payed € 330000000"
+sum(pippo, 330000000)
+
 ```
 
 # Link
