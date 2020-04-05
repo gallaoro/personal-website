@@ -22,9 +22,7 @@ title: This is a hello world post
 * item 1
 * item 2
 * item 3
-
   * item 3.1
-
     * item 3.1.1
     * item 3.1.2
   * item 3.2
@@ -34,12 +32,10 @@ title: This is a hello world post
 1. item 1
 2. item 2
 3. item 3
-
-   1. item 3.1
-
-      1. item 3.1.1
-      2. item 3.1.2
-   2. item 3.2
+  1. item 3.1
+    1. item 3.1.1
+    2. item 3.1.2
+  2. item 3.2
 
 # Code block
 
@@ -54,4 +50,6 @@ const abba = 'a group'
 
 # Image
 
-![wikipedia-logo](/img/wikipedia-logo.png "Wikipedia logo is lit")
+<div class="flex justify-center max-w-3xl">
+  <img class="max-w-sm" src="/img/wikipedia-logo.png" title="Wikipedia logo is lit" alt="wikipedia logo">
+</div>
