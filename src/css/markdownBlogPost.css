@@ -70,6 +70,11 @@
   @apply list-square;
 }
 
+/* Code blocks */
+.markdown pre {
+  @apply p-4 bg-gray-200 text-grey-800 rounded-lg shadow-lg;
+}
+
 /* Blockquotes */
 .markdown blockquote {
   @apply p-0 p-2 mx-6 bg-gray-100 mb-4 border-l-4 border-gray-400 italic;
