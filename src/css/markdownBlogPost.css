@@ -2,7 +2,7 @@
 /* Markdown Styles */
 /* Global */
 .markdown {
-  @apply leading-relaxed text-lg;
+  @apply leading-relaxed text-lg max-w-3xl;
 }
 /* Headers */
 .markdown h1 {
@@ -14,10 +14,16 @@
 .markdown h3 {
   @apply text-2xl my-6;
 }
-.markdown h4,
-.markdown h5,
-.markdown h6 {
+.markdown h4 {
   @apply text-xl my-3;
+}
+
+.markdown h5 {
+  @apply text-xl text-gray-600 my-3;
+}
+
+.markdown h6 {
+  @apply text-lg font-bold my-3;
 }
 /* Links */
 .markdown a {
@@ -72,7 +78,7 @@
 
 /* Code blocks */
 .markdown pre {
-  @apply p-4 bg-gray-200 text-gray-800 rounded-lg shadow-lg text-sm whitespace-pre-wrap;
+  @apply p-4 bg-gray-200 text-gray-800 rounded-lg shadow-lg text-sm whitespace-pre-wrap max-w-3xl mb-4;
 }
 
 /* Blockquotes */
@@ -93,4 +99,34 @@
 .markdown table {
   @apply mb-6;
 }
+
+/* Code highlight */
+.markdown .token {
+  @apply text-gray-600
+}
+.markdown .keyword {
+  @apply text-purple-600
+}
+.markdown .comment {
+  @apply text-gray-600
+}
+.markdown .function {
+  @apply text-yellow-600
+}
+.markdown .punctuation {
+  @apply text-blue-600
+}
+.markdown .string {
+  @apply text-orange-600
+}
+.markdown .parameter {
+  @apply text-black
+}
+.markdown .number {
+  @apply text-green-600
+}
+.markdown .operator {
+  @apply text-gray-600
+}
+
 /* purgecss end ignore */
