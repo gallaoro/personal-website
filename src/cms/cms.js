@@ -1,5 +1,6 @@
 import React from 'react'
 import CMS from 'netlify-cms-app'
+import marked from 'marked'
 
 import PostTemplate from '../templates/post'
 
@@ -9,7 +10,7 @@ const BlogPostPreview = ({ entry, widgetFor }) => {
     <PostTemplate
       data={{
         markdownRemark: {
-          html: data.body,
+          html: marked(data.body),
           frontmatter: {
             date: `${data.date.getFullYear()}-${data.date.getMonth()+1}-${data.date.getDate()}`,
             path: data.path,
@@ -22,4 +23,4 @@ const BlogPostPreview = ({ entry, widgetFor }) => {
 }
 
 // do not register custom preview
-// CMS.registerPreviewTemplate('blog', BlogPostPreview)
+CMS.registerPreviewTemplate('blog', BlogPostPreview)
