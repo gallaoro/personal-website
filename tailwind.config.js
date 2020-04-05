@@ -1,6 +1,12 @@
 module.exports = {
   theme: {
-    extend: {},
+    listStyleType: {
+      none: 'none',
+      disc: 'disc',
+      decimal: 'decimal',
+      square: 'square',
+      circle: 'circle',
+    }
   },
   variants: {},
   plugins: [],
