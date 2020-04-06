@@ -3,6 +3,7 @@ import SEO from "../components/seo"
 
 import LatestPost from "../components/LatestPosts"
 
+import me from "../images/me_400x400.jpg"
 import "../css/global.css"
 import "../css/background.css"
 
@@ -17,7 +18,7 @@ const IndexPage = () => (
           <div className="w-auto inline-block p-6 sm:p-8">
             <div className="flex items-center">
               <div className="rounded-full w-20 h-20 flex items-center">
-                <img className="rounded-full shadow-inner" alt="me" style={{ filter: "grayscale(20%)" }} src="https://pbs.twimg.com/profile_images/1194354546824400898/l2jMkcO__400x400.jpg" />
+                <img className="rounded-full shadow-inner" alt="me" style={{ filter: "grayscale(20%)" }} src={me} />
               </div>
               <div className="pl-6 flex items-center">
                 <h1 className="font-sans text-3xl font-bold text-gray-800">Gabriele Pallaoro</h1>
