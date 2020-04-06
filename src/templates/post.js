@@ -17,7 +17,7 @@ export default function PostTemplate({ data }) {
         <h1 className="text-3xl font-bold text-black">{frontmatter.title}</h1>
         <h2 className="text-xl text-gray-700 pb-16">{`${frontmatter.date}T00:00:00Z`}</h2>
         <div
-          className="blog-post-content markdown mb-16"
+          className="blog-post-content markdown pb-16"
           dangerouslySetInnerHTML={{ __html: html }}
         />
       </div>

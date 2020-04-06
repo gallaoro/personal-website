@@ -51,7 +51,7 @@ Ma mica serve chiedere a [google] per avere qualcosa di fatto bene.
 # Image
 
 <div class="flex justify-center max-w-3xl">
-  <img class="max-w-xl" src="/img/diamo-la-colpa-ai-runner.png" title="Wikipedia logo is lit" alt="wikipedia logo">
+  <img class="" src="/img/diamo-la-colpa-ai-runner.png" title="Wikipedia logo is lit" alt="wikipedia logo">
 </div>
 
 # Enphasis
@@ -76,6 +76,8 @@ Il sistema non riusciva a gestire tutte le richieste e quindi il ***click-day***
 | nessuno avrebbe | risposto dell'errore  | ma dai? |
 
 # Code block
+
+Questo è un blocco di codice originale copiato dal sito dell'INPS
 
 ```javascript
 function CambiaLingua(slingua) {
