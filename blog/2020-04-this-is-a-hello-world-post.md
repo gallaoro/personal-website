@@ -9,17 +9,15 @@ title: Test markdown rendering
 
 # Vorrei raccontarvi
 
-# della volta in cui
+## della volta in cui
 
-## il presidente dell'INPS
+### il presidente dell'INPS
 
-### diede la colpa agli hacker
+#### diede la colpa agli hacker
 
-#### invece che assumersi
+##### invece che assumersi
 
-##### le sue responsabilità
-
-###### e fare le valige
+###### le sue responsabilità
 
 # Unordered list
 
@@ -58,7 +56,7 @@ Ma mica serve chiedere a [google] per avere qualcosa di fatto bene.
 
 Quindi una volta arrivato il *click-day* tutto il sitema iniziò ad esplodere.
 
-**Mario Rossi** vedeva i dati di **Luigi Valentino** e __Luigi Valentino__ quelli di __Pasquale Tridico__.
+**Mario Rossi** vedeva i dati di **Luciano Vangone** e __Luciano Vangone__ quelli di __Pasquale Tridico__.
 
 Il sistema non riusciva a gestire tutte le richieste e quindi il ***click-day*** venne ~~annullato~~  rimandato.
 
