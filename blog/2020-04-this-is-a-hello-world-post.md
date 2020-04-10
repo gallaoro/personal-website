@@ -49,7 +49,7 @@ Ma mica serve chiedere a [google] per avere qualcosa di fatto bene.
 # Image
 
 <div class="flex justify-center max-w-3xl">
-  <img class="" src="/img/diamo-la-colpa-ai-runner.png" title="Wikipedia logo is lit" alt="wikipedia logo">
+  <img class="object-contain" src="/img/diamo-la-colpa-ai-runner.png" title="Wikipedia logo is lit" alt="wikipedia logo">
 </div>
 
 # Enphasis
