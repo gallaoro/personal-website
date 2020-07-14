@@ -8,9 +8,9 @@ import "../css/global.css"
 import "../css/background.css"
 
 const IndexPage = () => (
-  <>
+  <div style={{ height: "100vh", maxHeight: "-webkit-fill-available" }}>
     <SEO title="Home" />
-    <div className="flex" style={{ minHeight: "-webkit-fill-available" }} id="main-section">
+    <div className="flex" style={{ height: "100%", maxHeight: "-webkit-fill-available" }} id="main-section">
       <div className="lg:w-1/3 md:w-1/4 w-0">
       </div>
       <div className="lg:w-2/3 md:w-3/4 w-full flex justify-center items-start sm:items-center pt-10 px-6">
@@ -42,7 +42,7 @@ const IndexPage = () => (
         </p>
       </div>
     </div>
-  </>
+  </div>
 )
 
 export default IndexPage
