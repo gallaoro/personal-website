@@ -4,6 +4,16 @@ module.exports = {
     description: `Just a minimal personal website about Gabriele`,
     author: `@lellefood`,
     siteUrl: `https://gabriele.pallaoro.dev`,
+    portfolio: [
+      {
+        name: "Linfa",
+        url: "https://sharp-bhaskara-629fad.netlify.app/"
+      },
+      {
+        name: "AdvisorEat app",
+        url: "https://apps.apple.com/it/app/advisoreat/id1180537018/"
+      },
+    ]
   },
   plugins: [
     `gatsby-plugin-postcss`,

@@ -5,11 +5,12 @@ const LatestPosts = ({ data }) => {
   let { nodes } = data.allMarkdownRemark;
   const posts = nodes.map(post => {
     return (
-      <div key={post.frontmatter.path} className="py-1 cursor-pointer flex justify-between">
-        <Link title={post.frontmatter.title} to={`${post.frontmatter.path}`}>
-          <div className="underline">{post.frontmatter.title}</div>
-        </Link>
-      </div>
+      <Link title={post.frontmatter.title} to={`${post.frontmatter.path}`}>
+        <div key={post.frontmatter.path} className="py-1 cursor-pointer flex items-center">
+          <div className="underline mr-2">{post.frontmatter.title}</div>
+          <div>&rarr;</div>
+        </div>
+      </Link>
     )
   })
 
@@ -18,7 +19,7 @@ const LatestPosts = ({ data }) => {
   return (
     <>
       <hr className="my-2" />
-      <div className="text-black font-bold">Latest Posts</div>
+      <div className="text-black font-bold">Blog</div>
       {posts}
     </>
   )

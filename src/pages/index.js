@@ -2,6 +2,7 @@ import React from "react"
 import SEO from "../components/seo"
 
 import LatestPost from "../components/LatestPosts"
+import Portfolio from "../components/Portfolio"
 
 import me from "../images/me_400x400.jpg"
 import "../css/global.css"
@@ -33,6 +34,7 @@ const IndexPage = () => (
               </div>
             </div>
             <LatestPost />
+            <Portfolio />
           </div>
         </div>
       </div>
