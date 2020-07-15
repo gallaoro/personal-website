@@ -3,7 +3,7 @@ import { StaticQuery, graphql, Link } from "gatsby"
 
 const LatestPosts = ({ data }) => {
   let { nodes } = data.allMarkdownRemark;
-  const posts = nodes.filter(post => !!post.frontmatter.visible).map(post => {
+  const posts = nodes.filter(post => !!post.frontmatter.online).map(post => {
     return (
       <Link title={post.frontmatter.title} key={post.id} to={`${post.frontmatter.path}`}>
         <div className="py-1 cursor-pointer flex items-center">

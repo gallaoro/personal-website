@@ -1,7 +1,6 @@
 ---
 path: /blog/2020-04-hello-world
 date: 2020-04-05T00:00:00.000Z
-visible: true
 tags:
   - hello-world
 title: Test markdown rendering
