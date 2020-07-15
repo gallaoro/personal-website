@@ -35,7 +35,7 @@ export default props => (
               date(formatString: "YYYY-MM-DD", locale: "it")
               title
               path
-              visible
+              online
             }
           }
         }
