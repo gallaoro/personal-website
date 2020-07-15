@@ -3,10 +3,10 @@ import { StaticQuery, graphql, Link } from "gatsby"
 
 const LatestPosts = ({ data }) => {
   let { nodes } = data.allMarkdownRemark;
-  const posts = nodes.map(post => {
+  const posts = nodes.filter(post => !!post.frontmatter.visible).map(post => {
     return (
-      <Link title={post.frontmatter.title} to={`${post.frontmatter.path}`}>
-        <div key={post.frontmatter.path} className="py-1 cursor-pointer flex items-center">
+      <Link title={post.frontmatter.title} key={post.id} to={`${post.frontmatter.path}`}>
+        <div className="py-1 cursor-pointer flex items-center">
           <div className="underline mr-2">{post.frontmatter.title}</div>
           <div>&rarr;</div>
         </div>
@@ -35,6 +35,7 @@ export default props => (
               date(formatString: "YYYY-MM-DD", locale: "it")
               title
               path
+              visible
             }
           }
         }

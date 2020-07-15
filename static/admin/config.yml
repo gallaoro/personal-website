@@ -19,4 +19,5 @@ collections:
       - { name: date, label: Date, widget: datetime }
       - { name: tags, label: Tags, widget: list }
       - { name: title, label: Title }
+      - { name: online, label: Visible, widget: boolean }
       - { name: body, label: Body, widget: markdown }
