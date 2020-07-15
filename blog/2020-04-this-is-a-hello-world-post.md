@@ -5,6 +5,7 @@ visible: true
 tags:
   - hello-world
 title: Test markdown rendering
+online: true
 ---
 # Headings
 
