@@ -4,7 +4,7 @@ date: 2020-08-31T13:30:37.873Z
 tags:
   - lettura
 title: Come valutare un libro dalla copertina
-online: true
+online: false
 ---
 Il libro è un ottimo regalo per diverse ragioni: è economico, occupa poco spazio, insegna qualcosa e anche se ne ne accumuli molti non è un problema; anzi è un ottimo complemento d'arredo.\
 Una recente indagine indica, infatti, che la libreria è lo sfondo perfetto e più utilizzato per le videochiamate di lavoro, le interviste o le partecipazioni ai talkshow serali.
