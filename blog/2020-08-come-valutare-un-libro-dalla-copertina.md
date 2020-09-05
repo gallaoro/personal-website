@@ -6,12 +6,12 @@ tags:
 title: Come valutare un libro dalla copertina
 online: false
 ---
-Il libro è un ottimo regalo per diverse ragioni: è economico, occupa poco spazio, insegna qualcosa e anche se ne ne accumuli molti non è un problema; anzi è un ottimo complemento d'arredo.\
-Una recente indagine indica, infatti, che la libreria è lo sfondo perfetto e più utilizzato per le videochiamate di lavoro, le interviste o le partecipazioni ai talkshow serali.
+Il libro è un ottimo regalo per diverse ragioni: è economico, occupa poco spazio, insegna qualcosa e anche se ne ne accumuli molti non è un problema. Anzi, è un ottimo complemento d'arredo.\
+Infatti, una recente indagine indica che la libreria è lo sfondo perfetto e più utilizzato per le videochiamate di lavoro, le interviste o le partecipazioni ai talkshow serali.
 
 Quando, nelle varie occasioni, mi chiedono quale regalo vorrei ricevere, rispondo sempre: un libro.  
 
-Normalmente sarei felice a prescindere da quale sia il libro in oggetto del regalo, ma vedo spesso che mi vengono poi regalati libri che non mi sarei mai sognato di comprare. Libri che già dalla copertina urlano: "Questo è un libro mediocre. Non comprarlo!".
+Normalmente sarei felice a prescindere da quale sia il libro in oggetto del regalo. Spesso, però, mi vengono regalati libri penosi. Magari sono anche titoli famosi e obiettivamente buoni, ma presentati in edizioni in grado di far rabbrividere chiunque. Edizioni che già dalla copertina urlano: "Non comprarlo!".
 
 Ho preso 10 libri, un po'a caso dalla mia libreria e provo a spiegare cosa mi comunica ogni copertina.
 
@@ -54,7 +54,7 @@ Vogliamo parlare del logo Giunti Editore? Guardalo. Non ti da l'idea di essere s
 
 La dicitura "THRILLER" mi sembra superflua. Togliere.
 
-### Padre ricco padre povero - Gribaudi Editore
+### Padre ricco padre povero, Robert T. Kiyosaki - Gribaudi Editore
 
 <div class="flex justify-center max-w-sm pb-4">
   <img class="object-contain" src="/img/cover_padre_ricco_padre_povero.jpg" title="Padre ricco padre povero" alt="Padre ricco padre povero">
@@ -62,4 +62,37 @@ La dicitura "THRILLER" mi sembra superflua. Togliere.
 
 #### I miei occhi 🙈
 
-Qui c'è davvero l'imbarazzo della scelta.
+Qui c'è davvero l'imbarazzo della scelta.\
+Partiamo dai colori: viola e giallo, sarà anche una coppia di complementari ma qui tempo sia venuta male. Quella sfumatura a raggi tipo libro sacro poi è fuori luogo.  
+
+La foto dell'autore in copertina è un altro indicatore della pessima qualità dell'edizione (oltre che della boria dell'autore). Stare alla larga.
+
+Lascio perdere sull'uso di due font serif diversi per il sottotiolo e il nome dell'autore perchè è un dettaglio tutto sommato trascurabile. Si nota la differenza dalla lettera "o" di "Quello" e "Robert". Mentre nel primo caso ha uno spessore uniforme, nel secondo è molto più snella in alto e in basso.
+
+E cos'è quel bollino in alto a destra? "Best Seller. #1 di Person Finance di tutti i tempi" c'era devvero bisogno? Già sono odiosi quando vengono attacati tipo adesivi, se lo metti stampato in copertina, poi, vuoi proprio far capire a tutti che è un libro mediocre.\
+Che poi non lo sia (32 ristampe italiane) è un altro discorso. Io qui valuto le copertine, non il contenuto.
+
+Manca il nome della casa editrice in copertina. Sarà un caso? Io non ci metterei il mio.
+
+### La morte di Mura Idrissi, Tommy Wieringa - Iperborea
+
+<div class="flex justify-center max-w-sm pb-4">
+  <img class="object-contain" src="/img/cover_morte_di_murat_idrissi.jpg" title="La morte di Murat Idrissi" alt="La morte di Murat Idrissi">
+</div>
+
+### Personalità 🔝
+
+Adesso vediamo una bella copertina.  
+
+A parte il formato particolare, caratteristico di tutti i titoli Iperborea, potremmo anche notare che è una copertina che pare subito essenziale. C'è il titolo, l'autore e il nome della casa editrice. I tre fondamentali di ogni buona copertina. Ma la maggior parte dello spazio è preso dal disegno di un'auto nera che corre nel deserto sotto un sole cocente.\
+Copertina ordinata ed essenziale. Merita la lettura della seconda di copertina.
+
+Unico difetto: il titolo, il simbolo e il nome della casa editrice, scritti in nero, hanno un contrasto troppo basso con lo sfondo blu scuro. Vabbé.
+
+### L'evoluzione dell'ordine, César Hidalgo - Bollati Boringhieri
+
+<div class="flex justify-center max-w-sm pb-4">
+  <img class="object-contain" src="/img/cover_l_evoluzione_dell_ordine.jpg" title="L'evoluzione dell'ordine" alt="L'evoluzione dell'ordine">
+</div>
+
+Un'altra bella copertina.
