@@ -4,16 +4,16 @@ date: 2020-08-31T13:30:37.873Z
 tags:
   - lettura
 title: Come valutare un libro dalla copertina
-online: false
+online: true
 ---
 Il libro è un ottimo regalo per diverse ragioni: è economico, occupa poco spazio, insegna qualcosa e anche se ne ne accumuli molti non è un problema. Anzi, è un ottimo complemento d'arredo.\
-Infatti, una recente indagine indica che la libreria è lo sfondo perfetto e più utilizzato per le videochiamate di lavoro, le interviste o le partecipazioni ai talkshow serali.
+Infatti, una recente indagine indica che la libreria è lo sfondo perfetto e più utilizzato per le videochiamate di lavoro, le interviste o le partecipazioni ai talk show serali.
 
-Quando, nelle varie occasioni, mi chiedono quale regalo vorrei ricevere, rispondo sempre: un libro.  
+Quando, in varie occasioni, mi chiedono quale regalo vorrei ricevere; rispondo sempre: un libro.  
 
-Normalmente sarei felice a prescindere da quale sia il libro in oggetto del regalo. Spesso, però, mi vengono regalati libri penosi. Magari sono anche titoli famosi e obiettivamente buoni, ma presentati in edizioni in grado di far rabbrividere chiunque. Edizioni che già dalla copertina urlano: "Non comprarlo!".
+Normalmente sarei felice a prescindere da quale sia il libro in oggetto del regalo. Spesso però, mi vengono regalati libri penosi. Magari sono anche titoli famosi e obiettivamente buoni, ma presentati in edizioni in grado di far rabbrividire chiunque. Edizioni che già dalla copertina urlano: "Non comprarlo!".
 
-Ho preso 10 libri, un po'a caso dalla mia libreria e provo a spiegare cosa mi comunica ogni copertina.
+Ho preso 5 libri, un po' a caso dalla mia libreria e provo a spiegare cosa mi comunica ogni copertina.
 
 ### Il ritratto di Dorian Gray, Oscar Wilde - Giunti Editore
 
@@ -23,7 +23,7 @@ Ho preso 10 libri, un po'a caso dalla mia libreria e provo a spiegare cosa mi co
 
 ### Scena del film in copertina 🚫
 
-Quando viene utilizzata un immagine tratta dal film come copertina per un libro, puoi stare sicuro che quella non è l'edizione che devi prendere.  
+Quando viene utilizzata un'immagine tratta dal film come copertina per un libro, puoi stare sicuro che quella non è l'edizione che devi prendere.  
 
 Lasciami illazionare su quale penso sia il tipico flusso delle cose:
 
@@ -50,7 +50,8 @@ Non c'è arte e non c'è cura in questa copertina il che mi fa dire che non ci s
 In generale odio a prescindere l'utilizzo delle foto nelle copertine. Quando si tratta di narrativa poi, davvero non riesco a tollerarle. Penso che le foto diano un'idea troppo definita delle cose. La copertina dovrebbe incuriosire e magari trasmettere solo una vaga emozione.\
 In questo caso ad esempio mi sarebbe piaciuta di più, sostituendo alla foto un sfondo tutto nero e mantenendo la goccia rossa di sangue.
 
-Vogliamo parlare del logo Giunti Editore? Guardalo. Non ti da l'idea di essere sbagliato? Perché il testo "GIUNTI" è allineato in alto? Devo dire che mi disturba parecchio. Mi trasmette trasandatezza.
+Vogliamo parlare del logo Giunti Editore? Guardalo. Non ti da l'idea di essere sbagliato? Perché il testo "GIUNTI" è allineato in alto? Devo dire che mi disturba parecchio. Mi trasmette trasandatezza.  
+Se ve lo state chiedendo, quello è il logo corretto.
 
 La dicitura "THRILLER" mi sembra superflua. Togliere.
 
@@ -67,9 +68,9 @@ Partiamo dai colori: viola e giallo, sarà anche una coppia di complementari ma 
 
 La foto dell'autore in copertina è un altro indicatore della pessima qualità dell'edizione (oltre che della boria dell'autore). Stare alla larga.
 
-Lascio perdere sull'uso di due font serif diversi per il sottotiolo e il nome dell'autore perchè è un dettaglio tutto sommato trascurabile. Si nota la differenza dalla lettera "o" di "Quello" e "Robert". Mentre nel primo caso ha uno spessore uniforme, nel secondo è molto più snella in alto e in basso.
+Lascio perdere sull'uso di due font serif diversi per il sottotitolo e il nome dell'autore perché è un dettaglio tutto sommato trascurabile. Si nota la differenza dalla lettera "o" di "Quello" e "Robert". Mentre nel primo caso ha uno spessore uniforme, nel secondo è molto più snella in alto e in basso.
 
-E cos'è quel bollino in alto a destra? "Best Seller. #1 di Person Finance di tutti i tempi" c'era devvero bisogno? Già sono odiosi quando vengono attacati tipo adesivi, se lo metti stampato in copertina, poi, vuoi proprio far capire a tutti che è un libro mediocre.\
+E cos'è quel bollino in alto a destra? "Best Seller. #1 di Person Finance di tutti i tempi" c'era davvero bisogno? Già sono odiosi quando vengono attaccati tipo adesivi, se lo metti stampato in copertina poi, vuoi proprio far capire a tutti che è un libro mediocre.\
 Che poi non lo sia (32 ristampe italiane) è un altro discorso. Io qui valuto le copertine, non il contenuto.
 
 Manca il nome della casa editrice in copertina. Sarà un caso? Io non ci metterei il mio.
@@ -95,4 +96,17 @@ Unico difetto: il titolo, il simbolo e il nome della casa editrice, scritti in n
   <img class="object-contain" src="/img/cover_l_evoluzione_dell_ordine.jpg" title="L'evoluzione dell'ordine" alt="L'evoluzione dell'ordine">
 </div>
 
+### Ordine ⛩
+
 Un'altra bella copertina.
+
+Copertina ordinata. Bella illustrazione. Autore, titolo e sottotitolo al loro posto; così come il nome della casa editrice.  
+Benvenuto anche il commento dell'Economist.
+
+Davvero qui non trovo nessun difetto. Non a caso è anche il più costoso.
+
+## In conclusione
+
+Non valutate un libro dalla copertina. Ma se dovete proprio farlo, almeno guardatela.  
+
+Cosa trasmette? È ordinata? Ci sono i 3 fondamentali (titolo, autore, casa editrice)?
