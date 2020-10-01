@@ -17,8 +17,8 @@ Ho preso 5 libri, un po' a caso dalla mia libreria e provo a spiegare cosa mi co
 
 ### Il ritratto di Dorian Gray, Oscar Wilde - Giunti Editore
 
-<div class="flex justify-center max-w-sm pb-4">
-  <img class="object-contain" src="/img/cover_il_ritratto_di_dorian_gray.jpg" title="Il diario di Dorian Gray" alt="Il diario di Dorian Gray">
+<div class="max-w-sm pb-4">
+  <img class="max-h-full" src="/img/cover_il_ritratto_di_dorian_gray.jpg" title="Il diario di Dorian Gray" alt="Il diario di Dorian Gray">
 </div>
 
 ### Scena del film in copertina 🚫
@@ -41,8 +41,8 @@ Non c'è arte e non c'è cura in questa copertina il che mi fa dire che non ci s
 
 ### Nostalgia del sangue, Dario Correnti - Giunti Editore
 
-<div class="flex justify-center max-w-sm pb-4">
-  <img class="object-contain" src="/img/cover_nostalgia_del_sangue.jpg" title="Nostalgia del Sangue" alt="Nostalgia del Sangue">
+<div class="max-w-sm pb-4">
+  <img class="max-h-full" src="/img/cover_nostalgia_del_sangue.jpg" title="Nostalgia del Sangue" alt="Nostalgia del Sangue">
 </div>
 
 #### Foto in copertina nei romanzi 🚫
@@ -57,8 +57,8 @@ La dicitura "THRILLER" mi sembra superflua. Togliere.
 
 ### Padre ricco padre povero, Robert T. Kiyosaki - Gribaudi Editore
 
-<div class="flex justify-center max-w-sm pb-4">
-  <img class="object-contain" src="/img/cover_padre_ricco_padre_povero.jpg" title="Padre ricco padre povero" alt="Padre ricco padre povero">
+<div class="max-w-sm pb-4">
+  <img class="max-h-full" src="/img/cover_padre_ricco_padre_povero.jpg" title="Padre ricco padre povero" alt="Padre ricco padre povero">
 </div>
 
 #### I miei occhi 🙈
@@ -77,8 +77,8 @@ Manca il nome della casa editrice in copertina. Sarà un caso? Io non ci mettere
 
 ### La morte di Mura Idrissi, Tommy Wieringa - Iperborea
 
-<div class="flex justify-center max-w-sm pb-4">
-  <img class="object-contain" src="/img/cover_morte_di_murat_idrissi.jpg" title="La morte di Murat Idrissi" alt="La morte di Murat Idrissi">
+<div class="max-w-sm pb-4">
+  <img class="max-h-full" src="/img/cover_morte_di_murat_idrissi.jpg" title="La morte di Murat Idrissi" alt="La morte di Murat Idrissi">
 </div>
 
 ### Personalità 🔝
@@ -92,8 +92,8 @@ Unico difetto: il titolo, il simbolo e il nome della casa editrice, scritti in n
 
 ### L'evoluzione dell'ordine, César Hidalgo - Bollati Boringhieri
 
-<div class="flex justify-center max-w-sm pb-4">
-  <img class="object-contain" src="/img/cover_l_evoluzione_dell_ordine.jpg" title="L'evoluzione dell'ordine" alt="L'evoluzione dell'ordine">
+<div class="max-w-sm pb-4">
+  <img class="max-h-full" src="/img/cover_l_evoluzione_dell_ordine.jpg" title="L'evoluzione dell'ordine" alt="L'evoluzione dell'ordine">
 </div>
 
 ### Ordine ⛩
