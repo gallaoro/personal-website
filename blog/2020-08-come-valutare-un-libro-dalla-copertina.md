@@ -75,7 +75,7 @@ Che poi non lo sia (32 ristampe italiane) è un altro discorso. Io qui valuto le
 
 Manca il nome della casa editrice in copertina. Sarà un caso? Io non ci metterei il mio.
 
-### La morte di Mura Idrissi, Tommy Wieringa - Iperborea
+### La morte di Murat Idrissi, Tommy Wieringa - Iperborea
 
 <div class="max-w-sm pb-4">
   <img class="max-h-full" src="/img/cover_morte_di_murat_idrissi.jpg" title="La morte di Murat Idrissi" alt="La morte di Murat Idrissi">
