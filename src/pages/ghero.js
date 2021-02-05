@@ -1,6 +1,9 @@
 import React, { useState } from "react"
 import SEO from "../components/seo"
 
+import "../css/global.css"
+import "../css/background.css"
+
 const GheroPage = () => {
   const [input, setInput] = useState("")
   const [open, setOpen] = useState(false)
@@ -32,11 +35,11 @@ const GheroPage = () => {
             </div>
           </div>
         }
-        <div className="absolute bottom-0 right-0 p-2">
+        {/* <div className="absolute bottom-0 right-0 p-2">
           <p className="font-sans text-white text-sm mb-0">
             <a href="https://gatsbyjs.org" title="gatsby">gatsby</a>, <a href="https://tailwindcss.com/" title="tailwind">tailwind</a>, <a href="https://www.heropatterns.com/" title="heropatterns">heropatterns</a>, favicon by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a>
           </p>
-        </div>
+        </div> */}
       </div>
     </div>
   )
