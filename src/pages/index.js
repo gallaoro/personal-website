@@ -30,7 +30,7 @@ const IndexPage = () => (
                 <p className="font-sans text-gray-800 mb-0"><span role="img" aria-label="notebook">💻</span>&nbsp;&nbsp;full stack developer <a href="https://advisoreat.com" title="advisoreat">@AdvisorEat</a></p>
               </div>
               <div className="flex items-center pt-2">
-                <p className="font-sans text-xs text-gray-700 mb-0"><a href="https://twitter.com/lellefood" title="twitter">twitter</a>, <a href="https://github.com/lellefood" title="github">github</a></p>
+                <p className="font-sans text-xs text-gray-700 mb-0"><a href="https://twitter.com/scusanonhocapit" title="twitter">twitter</a>, <a href="https://github.com/gallaoro" title="github">github</a></p>
               </div>
             </div>
             <LatestPost />
